@@ -1,4 +1,1 @@
-kostka = function(){
-    liczba = sample(1:6, 1)
-    return(liczba)
-}
+
